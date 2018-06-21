@@ -1,0 +1,11 @@
+Simple Tic-tac-toe Game.
+
+Usage:
+
+As server:
+
+./tictactoeServer <portNum>
+
+As client:
+
+./tictactoeClient <portNum> <ipAddr>
